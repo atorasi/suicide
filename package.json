@@ -1,0 +1,26 @@
+{
+  "name": "suicide",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atorasi/suicide.git"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "atorasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atorasi/suicide/issues"
+  },
+  "homepage": "https://github.com/atorasi/suicide#readme",
+  "dependencies": {
+    "ethers": "^6.12.1",
+    "redaxios": "^0.5.1"
+  }
+}
