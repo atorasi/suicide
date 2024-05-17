@@ -1,6 +1,6 @@
-const { Wallet } = require('ethers');
-const http = require('redaxios');
-const fs = require('fs').promises;
+import Wallet from "ethers"
+import http from "redaxios"
+import fs from "fs"
 
 const message = 'This is a sybil address';
 
